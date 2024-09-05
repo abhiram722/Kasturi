@@ -1,0 +1,14 @@
+.ratings{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.ratings>div{
+    display: flex;
+}
+.ratingimg{
+    width: 20px;
+    height: 20px;
+}.cardprice{
+    color: grey;
+}
